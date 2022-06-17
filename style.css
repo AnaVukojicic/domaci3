@@ -1,0 +1,12 @@
+a#nav-link{
+    color:white;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+a#nav-link:hover{
+    color: black;
+    background-color: rgba(255, 255, 255, 0.3);
+    transition: 1s ease-in-out;
+}
+
